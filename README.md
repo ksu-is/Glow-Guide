@@ -1,4 +1,4 @@
-
+![Glow Guide Banner](./glow_guide_skincare_tracker.png)
 # Glow Guide: A Personalized Skincare Routine Tracker 🌸
 
 ## Project Description
