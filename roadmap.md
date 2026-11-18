@@ -27,9 +27,9 @@ to develop Glow Guide.
 - [x] Select Radiant as our reference project. **Nefertari**
 - [x] Confirm repository ownership or maintainer access. **Joy**
 - [x] Verify README.md changes have been committed. **Joy**
+- [x] Explore Radiant's GitHub repository. **Nefertari**
 
 ### ⏳ Incomplete Tasks
-- [ ] Explore Radiant's GitHub repository.
 - [ ] Read and examine Radiant's Python code.
 - [ ] Attempt to run Radiant.
 - [ ] Document our code review findings.
