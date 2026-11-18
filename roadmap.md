@@ -25,10 +25,10 @@ to develop Glow Guide.
 - [x] Create a GitHub account.
 - [x] Join the KSU-IS GitHub organization.
 - [x] Select Radiant as our reference project.
-
-### ⏳ Incomplete Tasks
 - [x] Confirm repository ownership or maintainer access.
 - [x] Verify README.md changes have been committed.
+
+### ⏳ Incomplete Tasks
 - [ ] Explore Radiant's GitHub repository.
 - [ ] Read and examine Radiant's Python code.
 - [ ] Attempt to run Radiant.
@@ -76,7 +76,7 @@ want to learn and incorporate any similar
 techniques into Glow Guide.
 
 We are not committing to using those additional
-technologies at this time.
+technologies.
 
 ### Code Review Findings
 Not completed yet.
