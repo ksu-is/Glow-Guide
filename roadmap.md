@@ -19,11 +19,11 @@ to develop Glow Guide.
 ## Sprint 1: Project Setup and Research
 
 ### ✅ Completed Tasks
-- [x] Choose our project idea: Glow Guide. Nefer
-- [x] Complete and submit Exercise 6.
-- [x] Enter project information in the Teams spreadsheet.
-- [x] Create a GitHub account.
-- [x] Join the KSU-IS GitHub organization. 
+- [x] Choose our project idea: Glow Guide. **Nefertari & Joy**
+- [x] Complete and submit Exercise 6. **Nefertari & Joy**
+- [x] Enter project information in the Teams spreadsheet. **Nefertari & Joy**
+- [x] Create a GitHub account. **Nefertari & Joy**
+- [x] Join the KSU-IS GitHub organization. **Nefertari & Joy**
 - [x] Select Radiant as our reference project. **Nefertari**
 - [x] Confirm repository ownership or maintainer access. **Joy**
 - [x] Verify README.md changes have been committed. **Joy**
