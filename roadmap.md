@@ -23,8 +23,8 @@ to develop Glow Guide.
 - [x] Complete and submit Exercise 6.
 - [x] Enter project information in the Teams spreadsheet.
 - [x] Create a GitHub account.
-- [x] Join the KSU-IS GitHub organization.
-- [x] Select Radiant as our reference project.
+- [x] Join the KSU-IS GitHub organization. 
+- [x] Select Radiant as our reference project. **Nefertari**
 - [x] Confirm repository ownership or maintainer access. **Joy**
 - [x] Verify README.md changes have been committed. **Joy**
 
