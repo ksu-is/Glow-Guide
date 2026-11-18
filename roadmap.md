@@ -19,7 +19,7 @@ to develop Glow Guide.
 ## Sprint 1: Project Setup and Research
 
 ### ✅ Completed Tasks
-- [x] Choose our project idea: Glow Guide.
+- [x] Choose our project idea: Glow Guide. Nefer
 - [x] Complete and submit Exercise 6.
 - [x] Enter project information in the Teams spreadsheet.
 - [x] Create a GitHub account.
@@ -27,8 +27,8 @@ to develop Glow Guide.
 - [x] Select Radiant as our reference project.
 
 ### ⏳ Incomplete Tasks
-- [ ] Confirm repository ownership or maintainer access.
-- [ ] Verify README.md changes have been committed.
+- [x] Confirm repository ownership or maintainer access.
+- [x] Verify README.md changes have been committed.
 - [ ] Explore Radiant's GitHub repository.
 - [ ] Read and examine Radiant's Python code.
 - [ ] Attempt to run Radiant.
