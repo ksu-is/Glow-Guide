@@ -6,7 +6,7 @@ Glow Guide is a skincare tracking website designed to help users stay organized 
 
 The application is especially designed for college students, skincare beginners, and anyone interested in developing better skincare habits.
 
-My goal is to make skincare easier, more enjoyable, and less overwhelming by keeping everything organized in one place.
+Our goal is to make skincare easier, more enjoyable, and less overwhelming by keeping everything organized in one place.
 
 ## Planned Features
 - **Morning and Nighttime Routines:** Create and manage personalized skincare routines.
@@ -23,10 +23,10 @@ My goal is to make skincare easier, more enjoyable, and less overwhelming by kee
 
 ## Target Audience
 Glow Guide is designed for:
-- College students with busy schedules.
-- Skincare beginners learning to build routines.
-- Young adults interested in skincare and self-care.
-- Anyone who wants to improve their skincare consistency.
+- College students with busy schedules
+- Skincare beginners learning to build routines
+- Young adults interested in skincare and self-care
+- Anyone who wants to improve their skincare consistency
 
 ## Project Goals
 1. Create a simple and interactive skincare tracking website.
