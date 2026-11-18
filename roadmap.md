@@ -25,8 +25,8 @@ to develop Glow Guide.
 - [x] Create a GitHub account.
 - [x] Join the KSU-IS GitHub organization.
 - [x] Select Radiant as our reference project.
-- [x] Confirm repository ownership or maintainer access.
-- [x] Verify README.md changes have been committed.
+- [x] Confirm repository ownership or maintainer access. **Nefertari**
+- [x] Verify README.md changes have been committed. **Joy**
 
 ### ⏳ Incomplete Tasks
 - [ ] Explore Radiant's GitHub repository.
